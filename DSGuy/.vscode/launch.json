@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BSTResusrsion",
+            "request": "launch",
+            "mainClass": "BSTResusrsion",
+            "projectName": "DS Guy_eb26197f"
+        }
+    ]
+}
