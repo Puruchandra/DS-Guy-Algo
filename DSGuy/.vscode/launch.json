@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SingleDimensionArrayMain",
+            "request": "launch",
+            "mainClass": "SingleDimensionArrayMain"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleDimensionArrayMain",
+            "request": "launch",
+            "mainClass": "array.SingleDimensionArrayMain"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BSTResusrsion",
             "request": "launch",
             "mainClass": "BSTResusrsion",
