@@ -17,6 +17,20 @@
             "name": "CodeLens (Launch) - BSTResusrsion",
             "request": "launch",
             "mainClass": "BSTResusrsion",
+            "projectName": "DSGuy_6ae99d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialRecursion",
+            "request": "launch",
+            "mainClass": "FactorialRecursion",
+            "projectName": "DSGuy_6ae99d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BSTResusrsion",
+            "request": "launch",
+            "mainClass": "BSTResusrsion",
             "projectName": "DS Guy_eb26197f"
         }
     ]
