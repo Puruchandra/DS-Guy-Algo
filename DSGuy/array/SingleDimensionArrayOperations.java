@@ -1,3 +1,5 @@
+package array;
+
 class SingleDimensionArrayOperations {
 
     int[] arr = null;
