@@ -1,3 +1,5 @@
+package array;
+
 class SingleDimensionArrayMain {
     public static void main(String args[]) {
         SingleDimensionArrayOperations sda = new SingleDimensionArrayOperations(10);
