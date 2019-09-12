@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SingleLinkedListMain",
+            "request": "launch",
+            "mainClass": "linkedList.SingleLinkedListMain",
+            "projectName": "DSGuy_6ae99d36"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TwoDimensionalArrayMain",
             "request": "launch",
             "mainClass": "array.TwoDimensionalArrayMain",
