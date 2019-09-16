@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CircularSingleLinkedListMain",
+            "request": "launch",
+            "mainClass": "linkedList.CircularSingleLinkedListMain",
+            "projectName": "DSGuy_dbd2c44c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleLinkedListMain",
+            "request": "launch",
+            "mainClass": "linkedList.SingleLinkedListMain",
+            "projectName": "DSGuy_dbd2c44c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SingleLinkedListMain",
             "request": "launch",
             "mainClass": "linkedList.SingleLinkedListMain",
